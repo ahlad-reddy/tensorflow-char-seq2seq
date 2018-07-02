@@ -1,0 +1,7 @@
+generated.txt
+.DS_Store
+
+__pycache__
+models
+data
+venv
